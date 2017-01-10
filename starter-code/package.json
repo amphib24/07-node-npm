@@ -1,0 +1,24 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "bligity bligity blackout",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"git+https://github.com/amphib24/07-node-npm.git\""
+  },
+  "keywords": [
+    "beer",
+    "brauds",
+    "bullets"
+  ],
+  "author": "jefe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
